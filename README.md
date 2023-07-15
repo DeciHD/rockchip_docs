@@ -20,6 +20,8 @@ https://wiki.radxa.com/Home
 
 https://dl.khadas.com/products/
 
+https://wiki.odroid.com/
+
 https://wiki.pine64.org/wiki/Main_Page
 
 http://www.orangepi.cn/orangepiwiki/index.php/%E4%B8%BB%E9%A1%B5
