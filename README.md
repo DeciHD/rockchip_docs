@@ -28,4 +28,10 @@ http://www.orangepi.cn/orangepiwiki/index.php/%E4%B8%BB%E9%A1%B5
 
 https://wiki.banana-pi.org/Main_Page
 
+https://www.industio.cn/
+
+https://wiki.luckfox.com/
+
+https://www.sololinker.com/
+
 ...
