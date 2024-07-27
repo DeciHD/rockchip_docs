@@ -8,6 +8,8 @@ All documents are publicly accessible over the Internet, most of them found in f
 
 THESE DOCUMENTS ARE FOR REFERENCE ONLY. NO WARRANTY for authenticity and integrity.
 
+Feel free to request a file removal if necessary.
+
 # Links
 
 https://rockchip.fr/
